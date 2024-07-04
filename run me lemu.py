@@ -13,7 +13,7 @@ querystring = {
     "categoryExternalID": "4"
 }
 headers = {
-    "x-rapidapi-key": "bayut-rapidapi-key",
+    "x-rapidapi-key": "bayut-api-key",
     "x-rapidapi-host": "bayut.p.rapidapi.com"
 }
 
