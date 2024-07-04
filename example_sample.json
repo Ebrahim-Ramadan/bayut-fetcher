@@ -1,0 +1,579 @@
+{
+    "id": 5759128,
+    "ownerID": 2122720,
+    "userExternalID": "2122720",
+    "sourceID": 1,
+    "state": "active",
+    "_geoloc": {
+        "lat": 25.065525,
+        "lng": 55.208936
+    },
+    "geography": {
+        "lat": 25.065525,
+        "lng": 55.208936
+    },
+    "purpose": "for-rent",
+    "price": 4799.0,
+    "product": "superhot",
+    "productLabel": "default",
+    "productScore": 0,
+    "rentFrequency": "monthly",
+    "referenceNumber": "ZZO-1BHK-AP503-MES348",
+    "permitNumber": null,
+    "projectNumber": null,
+    "title": "FULLY FURNISHED 1BHK || POOL VIEW || CALL US NOW",
+    "title_l1": "\u0634\u0642\u0629 \u0641\u064a \u0628\u0644\u0627\u0632\u0648 \u0647\u0627\u064a\u062a\u0633\u060c\u0627\u0644\u0636\u0627\u062d\u064a\u0629 10\u060c\u0642\u0631\u064a\u0629 \u062c\u0645\u064a\u0631\u0627 \u0627\u0644\u062f\u0627\u0626\u0631\u064a\u0629 1 \u063a\u0631\u0641\u0629 4799 \u062f\u0631\u0647\u0645 - 8784026",
+    "title_l2": "\u4f4d\u4e8e\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)\uff0cJVC\u7b2c10\u533a\uff0c\u683c\u62c9\u5179\u516c\u5bd3 1 \u5367\u5ba4\u7684\u516c\u5bd3 4799 AED - 8784026",
+    "title_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)\uff0c\u0414\u0436\u0435\u0439\u0412\u0438\u0421\u0438 \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 10\uff0c\u041f\u043b\u0430\u0437\u0437\u043e \u0425\u0430\u0439\u0442\u0441, 1 \u0441\u043f\u0430\u043b\u044c\u043d\u044f, 4799 AED - 8784026",
+    "externalID": "8784026",
+    "slug": "fully-furnished-1bhk-pool-view-call-us-now-8784026",
+    "slug_l1": "fully-furnished-1bhk-pool-view-call-us-now-8784026",
+    "slug_l2": "fully-furnished-1bhk-pool-view-call-us-now-8784026",
+    "slug_l3": "fully-furnished-1bhk-pool-view-call-us-now-8784026",
+    "location": [
+        {
+            "id": 1,
+            "level": 0,
+            "externalID": "5001",
+            "name": "UAE",
+            "name_l1": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a",
+            "name_l2": "\u963f\u8054\u914b",
+            "name_l3": "\u041e\u0410\u042d",
+            "slug": "/uae",
+            "slug_l1": "/uae",
+            "slug_l2": "/uae",
+            "slug_l3": "/uae"
+        },
+        {
+            "id": 2,
+            "level": 1,
+            "externalID": "5002",
+            "name": "Dubai",
+            "name_l1": "\u062f\u0628\u064a",
+            "name_l2": "\u8fea\u62dc",
+            "name_l3": "\u0414\u0443\u0431\u0430\u0439",
+            "slug": "/dubai",
+            "slug_l1": "/dubai",
+            "slug_l2": "/dubai",
+            "slug_l3": "/dubai"
+        },
+        {
+            "id": 59,
+            "level": 2,
+            "externalID": "5416",
+            "name": "Jumeirah Village Circle (JVC)",
+            "name_l1": "\u0642\u0631\u064a\u0629 \u062c\u0645\u064a\u0631\u0627 \u0627\u0644\u062f\u0627\u0626\u0631\u064a\u0629",
+            "name_l2": "\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)",
+            "name_l3": "\u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)",
+            "slug": "/dubai/jumeirah-village-circle-jvc",
+            "slug_l1": "/dubai/jumeirah-village-circle-jvc",
+            "slug_l2": "/dubai/jumeirah-village-circle-jvc",
+            "slug_l3": "/dubai/jumeirah-village-circle-jvc",
+            "type": "neighbourhood"
+        },
+        {
+            "id": 2478,
+            "level": 3,
+            "externalID": "11840",
+            "name": "JVC District 10",
+            "name_l1": "\u0627\u0644\u0636\u0627\u062d\u064a\u0629 10",
+            "name_l2": "JVC\u7b2c10\u533a",
+            "name_l3": "\u0414\u0436\u0435\u0439\u0412\u0438\u0421\u0438 \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 10",
+            "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-10",
+            "slug_l1": "/dubai/jumeirah-village-circle-jvc/jvc-district-10",
+            "slug_l2": "/dubai/jumeirah-village-circle-jvc/jvc-district-10",
+            "slug_l3": "/dubai/jumeirah-village-circle-jvc/jvc-district-10",
+            "type": "neighbourhood"
+        },
+        {
+            "id": 5307,
+            "level": 4,
+            "externalID": "11994",
+            "name": "Plazzo Heights",
+            "name_l1": "\u0628\u0644\u0627\u0632\u0648 \u0647\u0627\u064a\u062a\u0633",
+            "name_l2": "\u683c\u62c9\u5179\u516c\u5bd3",
+            "name_l3": "\u041f\u043b\u0430\u0437\u0437\u043e \u0425\u0430\u0439\u0442\u0441",
+            "slug": "/dubai/jumeirah-village-circle-jvc/jvc-district-10/plazzo-heights",
+            "slug_l1": "/dubai/jumeirah-village-circle-jvc/jvc-district-10/plazzo-heights",
+            "slug_l2": "/dubai/jumeirah-village-circle-jvc/jvc-district-10/plazzo-heights",
+            "slug_l3": "/dubai/jumeirah-village-circle-jvc/jvc-district-10/plazzo-heights",
+            "type": "condo-building"
+        }
+    ],
+    "category": [
+        {
+            "id": 1,
+            "level": 0,
+            "externalID": "1",
+            "name": "Residential",
+            "name_l1": "\u0633\u0643\u0646\u064a",
+            "name_l2": "\u5c45\u4f4f\u7269\u4e1a",
+            "name_l3": "\u0416\u0438\u043b\u044b\u0435",
+            "slug": "residential",
+            "slug_l1": "residential",
+            "slug_l2": "residential",
+            "slug_l3": "residential",
+            "nameSingular": "Residential",
+            "nameSingular_l1": "\u0633\u0643\u0646\u064a",
+            "nameSingular_l2": "\u5c45\u4f4f\u7269\u4e1a",
+            "nameSingular_l3": "\u0416\u0438\u043b\u044b\u0435"
+        },
+        {
+            "id": 2,
+            "level": 1,
+            "externalID": "4",
+            "name": "Apartments",
+            "name_l1": "\u0634\u0642\u0642",
+            "name_l2": "\u516c\u5bd3",
+            "name_l3": "\u0410\u043f\u0430\u0440\u0442\u0430\u043c\u0435\u043d\u0442\u044b",
+            "slug": "apartments",
+            "slug_l1": "apartments",
+            "slug_l2": "apartments",
+            "slug_l3": "apartments",
+            "nameSingular": "Apartment",
+            "nameSingular_l1": "\u0634\u0642\u0629",
+            "nameSingular_l2": "\u516c\u5bd3",
+            "nameSingular_l3": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430"
+        }
+    ],
+    "createdAt": 1711108832.0,
+    "updatedAt": 1720068136.0,
+    "reactivatedAt": 1711108832.0,
+    "rooms": 1,
+    "baths": 2,
+    "area": 61.9700438016,
+    "score": 75,
+    "score_l1": 75,
+    "score_l2": 75,
+    "score_l3": 75,
+    "coverPhoto": {
+        "id": 718757075,
+        "externalID": "169647468",
+        "title": "20240319_130144. jpg",
+        "orderIndex": 0,
+        "nimaScore": 9.298283997583894,
+        "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/718757075/043fdec2da1e4f77a9f96a23c6ac0923",
+        "main": true
+    },
+    "photoCount": 21,
+    "videoCount": 0,
+    "panoramaCount": 0,
+    "phoneNumber": {
+        "mobile": "+971554273348",
+        "phone": "+97145539027",
+        "whatsapp": "971545695868",
+        "proxyPhone": "+97148711489",
+        "phoneNumbers": [
+            "+97145539027"
+        ],
+        "mobileNumbers": [
+            "+971554273348"
+        ]
+    },
+    "contactName": "Mesrop Vardanyan",
+    "agency": {
+        "id": 29583084,
+        "objectID": 29583084,
+        "name": "Luxe Signature Holiday Homes",
+        "name_l1": "\u0644\u0648\u0643\u0633 \u0633\u064a\u062c\u0646\u064a\u062a\u0634\u0631 \u0644\u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u062a",
+        "name_l2": "Luxe Signature Holiday Homes",
+        "name_l3": "Luxe Signature Holiday Homes",
+        "externalID": "9945",
+        "product": "premium",
+        "productScore": 2,
+        "licenses": [
+            {
+                "number": "761913",
+                "authority": "DED"
+            }
+        ],
+        "logo": {
+            "id": 95887451,
+            "url": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/95887451/dd511fdbc2e84cbe9963123840177a97"
+        },
+        "slug": "luxe-signature-holiday-homes-9945",
+        "slug_l1": "luxe-signature-holiday-homes-9945",
+        "slug_l2": "luxe-signature-holiday-homes-9945",
+        "slug_l3": "luxe-signature-holiday-homes-9945",
+        "tr": 2,
+        "tier": 2,
+        "roles": [],
+        "active": true,
+        "createdAt": "2020-09-22T08:48:39+00:00",
+        "commercialNumber": null,
+        "shortNumber": null,
+        "type": "agency",
+        "performanceCohort": "overachieving"
+    },
+    "hash": "9768d6f",
+    "keywords": [
+        "parking",
+        "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0629",
+        "new",
+        "furnished",
+        "\u062c\u062f\u064a\u062f\u0629",
+        "\u0645\u0624\u062b\u062b\u0629",
+        "\u0645\u0637\u0628\u062e",
+        "\u0645\u0641\u0631\u0648\u0634",
+        "kitchen",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "elevator",
+        "\u0645\u0637\u0627\u0631",
+        "luxury",
+        "airport",
+        "\u0627\u064a\u062c\u0627\u0631 \u062c\u062f\u064a\u062f",
+        "\u0641\u0627\u062e\u0631\u0629",
+        "\u062c\u062f\u064a\u062f\u0629 \u0627\u0648\u0644 \u0633\u0627\u0643\u0646",
+        "\u0645\u0635\u0639\u062f"
+    ],
+    "isVerified": true,
+    "verification": {
+        "updatedAt": 1719990398.293468,
+        "eligible": true,
+        "status": "verified",
+        "verifiedAt": 1719990386.0,
+        "trucheckedAt": 1719990386.0
+    },
+    "verifiedScore": 0,
+    "occupancyStatus": "vacant",
+    "randBoostScore": 533,
+    "randBoostScore_l1": 533,
+    "randBoostScore_l2": 444,
+    "randBoostScore_l3": 444,
+    "floorPlanID": 22825,
+    "furnishingStatus": "furnished",
+    "extraFields": {
+        "dldBuildingNK": "tabu-168119171",
+        "dldPropertySK": "dld|mea|ae|tabu+ejari-168129481",
+        "hasSaleTransactions": true
+    },
+    "type": "property",
+    "hasTransactionHistory": true,
+    "hasDldBuildingNk": true,
+    "ownerAgent": {
+        "externalID": "2122720",
+        "name": "Mesrop Vardanyan",
+        "name_l1": "Mesrop Vardanyan",
+        "name_l2": "Mesrop Vardanyan",
+        "name_l3": "Mesrop Vardanyan",
+        "user_image": "https://bayut-production.s3.eu-central-1.amazonaws.com/image/413153559/4c8814fba0a242219db7d32e101c1616",
+        "user_image_id": 413153559,
+        "isTruBroker": false,
+        "slug": "mesrop-vardanyan-2122720",
+        "slug_l1": "mesrop-vardanyan-2122720",
+        "slug_l2": "mesrop-vardanyan-2122720",
+        "slug_l3": "mesrop-vardanyan-2122720"
+    },
+    "amenities": [
+        "24 Hours Concierge",
+        "Parking Spaces",
+        "Jacuzzi",
+        "ATM Facility",
+        "Service Elevators",
+        "Furnished",
+        "Steam Room",
+        "Barbeque Area",
+        "Kids Play Area",
+        "Reception/Waiting Room",
+        "Waste Disposal",
+        "Freehold",
+        "Nearby Shopping Malls",
+        "Cafeteria or Canteen",
+        "Balcony or Terrace",
+        "Centrally Air-Conditioned",
+        "Broadband Internet",
+        "Gym or Health Club",
+        "Laundry Facility",
+        "Lawn or Garden",
+        "Cleaning Services",
+        "Satellite/Cable TV",
+        "CCTV Security",
+        "Security Staff",
+        "Electricity Backup",
+        "Lobby in Building",
+        "Sauna",
+        "First Aid Medical Center",
+        "Swimming Pool",
+        "Maintenance Staff",
+        "Double Glazed Windows"
+    ],
+    "amenities_l1": [
+        "\u062d\u0631\u0627\u0633\u0629 24 \u0633\u0627\u0639\u0629",
+        "\u0645\u0648\u0627\u0642\u0641 \u0633\u064a\u0627\u0631\u0627\u062a",
+        "\u062c\u0627\u0643\u0648\u0632\u064a",
+        "\u062a\u0648\u0641\u0631 \u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0633\u062d\u0628 \u0627\u0644\u0622\u0644\u064a",
+        "\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0645\u0635\u0627\u0639\u062f",
+        "\u0645\u0641\u0631\u0648\u0634\u0629",
+        "\u063a\u0631\u0641\u0629 \u0628\u062e\u0627\u0631",
+        "\u0645\u0643\u0627\u0646 \u0645\u062e\u0635\u0635 \u0644\u0644\u0634\u0648\u0627\u0621",
+        "\u0645\u0646\u0637\u0642\u0629 \u0644\u0639\u0628 \u0644\u0644\u0623\u0637\u0641\u0627\u0644",
+        "\u063a\u0631\u0641\u0629 \u0627\u0633\u062a\u0642\u0628\u0627\u0644 /\u0627\u0646\u062a\u0638\u0627\u0631",
+        "\u0645\u0643\u0628\u0651 \u0646\u0641\u0627\u064a\u0627\u062a",
+        "\u0627\u0644\u062a\u0645\u0644\u0643 \u0627\u0644\u062d\u0631",
+        "\u0645\u0631\u0627\u0643\u0632 \u062a\u0633\u0648\u0642 \u0642\u0631\u064a\u0628\u0629",
+        "\u0643\u0627\u0641\u064a\u062a\u064a\u0631\u064a\u0627",
+        "\u0634\u0631\u0641\u0629 \u0623\u0648 \u062a\u0631\u0627\u0633",
+        "\u0646\u0638\u0627\u0645 \u062a\u0628\u0631\u064a\u062f \u0645\u0631\u0643\u0632\u064a",
+        "\u0627\u0646\u062a\u0631\u0646\u062a \u0648\u0627\u0633\u0639 \u0627\u0644\u0646\u0637\u0627\u0642",
+        "\u0635\u0627\u0644\u0629 \u0631\u064a\u0627\u0636\u064a\u0629 \u0623\u0648 \u0646\u0627\u062f\u064a \u0635\u062d\u064a",
+        "\u062e\u062f\u0645\u0629 \u063a\u0633\u064a\u0644 \u0645\u0644\u0627\u0628\u0633",
+        "\u062d\u062f\u064a\u0642\u0629",
+        "\u062e\u062f\u0645\u0627\u062a \u062a\u0646\u0638\u064a\u0641",
+        "\u0643\u0627\u0628\u0644 \u0642\u0646\u0648\u0627\u062a \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629",
+        "\u0646\u0638\u0627\u0645 \u0643\u0627\u0645\u064a\u0631\u0627\u062a \u0645\u0631\u0627\u0642\u0628\u0629",
+        "\u0623\u0645\u0646 \u0648 \u062d\u0645\u0627\u064a\u0629",
+        "\u0646\u0638\u0627\u0645 \u0643\u0647\u0631\u0628\u0627\u0621 \u0627\u062d\u062a\u064a\u0627\u0637\u064a \u0644\u0644\u0637\u0648\u0627\u0631\u0626",
+        "\u0631\u062f\u0647\u0629 \u0625\u0633\u062a\u0642\u0628\u0627\u0644",
+        "\u0633\u0627\u0648\u0646\u0627",
+        "\u0645\u0631\u0643\u0632 \u0644\u0644\u0625\u0633\u0639\u0627\u0641\u0627\u062a \u0627\u0644\u0623\u0648\u0644\u064a\u0629",
+        "\u0645\u0633\u0628\u062d",
+        "\u062e\u062f\u0645\u0627\u062a \u0635\u064a\u0627\u0646\u0629",
+        "\u0646\u0648\u0627\u0641\u0630 \u0632\u062c\u0627\u062c\u064a\u0629 \u0645\u0632\u062f\u0648\u062c\u0629"
+    ],
+    "amenities_l2": [
+        "24\u5c0f\u65f6\u793c\u5bbe\u670d\u52a1",
+        "\u6cca\u8f66\u4f4d",
+        "\u6309\u6469\u6d74\u7f38",
+        "\u81ea\u52a8\u53d6\u6b3e\u673a",
+        "\u670d\u52a1\u7535\u68af",
+        "\u914d\u5907\u5bb6\u5177",
+        "\u6e38\u6cf3\u6c60",
+        "\u70e7\u70e4\u533a",
+        "\u513f\u7ae5\u5a31\u4e50\u533a",
+        "\u6851\u62ff",
+        "\u5783\u573e\u5904\u7406",
+        "\u6c38\u4e45\u4ea7\u6743",
+        "\u6cca\u8f66\u4f4d",
+        "\u81ea\u52a9\u9910\u5385\u6216\u98df\u5802",
+        "\u9633\u53f0",
+        "\u4e2d\u592e\u7a7a\u8c03",
+        "\u5bbd\u5e26\u7f51\u7edc",
+        "\u5065\u8eab\u623f\u6216\u5065\u8eab\u4ff1\u4e50\u90e8",
+        "\u6d17\u8863\u8bbe\u65bd",
+        "\u7eff\u5316",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u536b\u661f\u7535\u89c6/\u6709\u7ebf\u7535\u89c6",
+        "\u95ed\u8def\u7535\u89c6\u5b89\u5168",
+        "\u5168\u90e8\u697c\u5c42",
+        "\u5907\u7528\u7535\u529b",
+        "\u5165\u6237\u5927\u5802",
+        "\u6c57\u84b8\u623f",
+        "\u6025\u6551\u4e2d\u5fc3",
+        "\u9644\u8fd1\u533b\u9662",
+        "\u6e05\u6d01\u670d\u52a1",
+        "\u53cc\u5c42\u73bb\u7483\u7a97"
+    ],
+    "amenities_l3": [
+        "\u041a\u0440\u0443\u0433\u043b\u043e\u0441\u0443\u0442\u043e\u0447\u043d\u044b\u0439 \u043a\u043e\u043d\u0441\u044c\u0435\u0440\u0436",
+        "\u041f\u0430\u0440\u043a\u043e\u0432\u043e\u0447\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430",
+        "\u0414\u0436\u0430\u043a\u0443\u0437\u0438",
+        "\u0411\u0430\u043d\u043a\u043e\u043c\u0430\u0442",
+        "\u0421\u043b\u0443\u0436\u0435\u0431\u043d\u044b\u0435 \u043b\u0438\u0444\u0442\u044b",
+        "\u041c\u0435\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0439",
+        "\u041f\u0430\u0440\u043e\u0432\u0430\u044f \u043a\u043e\u043c\u043d\u0430\u0442\u0430",
+        "\u0417\u043e\u043d\u0430 \u0431\u0430\u0440\u0431\u0435\u043a\u044e",
+        "\u0414\u0435\u0442\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u043e\u0432\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u043a\u0430",
+        "\u041f\u0440\u0438\u0435\u043c/\u0417\u0430\u043b \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f",
+        "\u0423\u0442\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u043e\u0442\u0445\u043e\u0434\u043e\u0432",
+        "\u041f\u0440\u0430\u0432\u043e \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438",
+        "\u0411\u043b\u0438\u0436\u0430\u0439\u0448\u0438\u0435 \u0442\u043e\u0440\u0433\u043e\u0432\u044b\u0435 \u0446\u0435\u043d\u0442\u0440\u044b",
+        "\u041a\u0430\u0444\u0435\u0442\u0435\u0440\u0438\u0439 \u0438\u043b\u0438 \u0441\u0442\u043e\u043b\u043e\u0432\u0430\u044f",
+        "\u0411\u0430\u043b\u043a\u043e\u043d \u0438\u043b\u0438 \u0442\u0435\u0440\u0440\u0430\u0441\u0430",
+        "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0435 \u043a\u043e\u043d\u0434\u0438\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435",
+        "\u0428\u0438\u0440\u043e\u043a\u043e\u043f\u043e\u043b\u043e\u0441\u043d\u044b\u0439 \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442",
+        "\u0422\u0440\u0435\u043d\u0430\u0436\u0435\u0440\u043d\u044b\u0439 \u0437\u0430\u043b \u0438\u043b\u0438 \u043e\u0437\u0434\u043e\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0443\u0431",
+        "\u043f\u0440\u0430\u0447\u0435\u0447\u043d\u0430\u044f",
+        "\u0413\u0430\u0437\u043e\u043d \u0438\u043b\u0438 \u0441\u0430\u0434",
+        "\u0423\u0441\u043b\u0443\u0433\u0438 \u043f\u043e \u0443\u0431\u043e\u0440\u043a\u0435",
+        "\u0421\u043f\u0443\u0442\u043d\u0438\u043a\u043e\u0432\u043e\u0435/\u043a\u0430\u0431\u0435\u043b\u044c\u043d\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435",
+        "\u0411\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c \u0432\u0438\u0434\u0435\u043e\u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f",
+        "\u0421\u043e\u0442\u0440\u0443\u0434\u043d\u0438\u043a\u0438 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438",
+        "\u0420\u0435\u0437\u0435\u0440\u0432\u043d\u043e\u0435 \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u043e",
+        "\u041b\u043e\u0431\u0431\u0438 \u0432 \u0437\u0434\u0430\u043d\u0438\u0438",
+        "\u0421\u0430\u0443\u043d\u0430",
+        "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439 \u0446\u0435\u043d\u0442\u0440 \u0441\u043a\u043e\u0440\u043e\u0439 \u043f\u043e\u043c\u043e\u0449\u0438",
+        "\u0411\u0430\u0441\u0441\u0435\u0439\u043d",
+        "\u041e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u044e\u0449\u0438\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b",
+        "\u041e\u043a\u043d\u0430 \u0441 \u0434\u0432\u043e\u0439\u043d\u044b\u043c \u043e\u0441\u0442\u0435\u043a\u043b\u0435\u043d\u0438\u0435\u043c"
+    ],
+    "completionStatus": "completed",
+    "cityLevelScore": 1,
+    "indyScore": 533,
+    "indyScore_l1": 533,
+    "indyScore_l2": 444,
+    "indyScore_l3": 444,
+    "hasMatchingFloorPlans": true,
+    "photoIDs": [
+        718757075,
+        718757089,
+        718757097,
+        718757107,
+        718757118,
+        718757129,
+        718757136,
+        718757148,
+        718757159,
+        718757166,
+        718757173,
+        718757183,
+        718757190,
+        718757195,
+        718757202,
+        718757207,
+        718757210,
+        718757212,
+        718757216,
+        718757221,
+        718757227
+    ],
+    "hidePrice": false,
+    "locationPurposeTier": 1,
+    "plotArea": null,
+    "objectID": "5759128",
+    "_highlightResult": {
+        "referenceNumber": {
+            "value": "ZZO-1BHK-AP503-MES348",
+            "matchLevel": "none",
+            "matchedWords": []
+        },
+        "title": {
+            "value": "FULLY FURNISHED 1BHK || POOL VIEW || CALL US NOW",
+            "matchLevel": "none",
+            "matchedWords": []
+        },
+        "title_l1": {
+            "value": "\u0634\u0642\u0629 \u0641\u064a \u0628\u0644\u0627\u0632\u0648 \u0647\u0627\u064a\u062a\u0633\u060c\u0627\u0644\u0636\u0627\u062d\u064a\u0629 10\u060c\u0642\u0631\u064a\u0629 \u062c\u0645\u064a\u0631\u0627 \u0627\u0644\u062f\u0627\u0626\u0631\u064a\u0629 1 \u063a\u0631\u0641\u0629 4799 \u062f\u0631\u0647\u0645 - 8784026",
+            "matchLevel": "none",
+            "matchedWords": []
+        },
+        "title_l2": {
+            "value": "\u4f4d\u4e8e\u6731\u7f8e\u62c9\u73af\u5f62\u6751(JVC)\uff0cJVC\u7b2c10\u533a\uff0c\u683c\u62c9\u5179\u516c\u5bd3 1 \u5367\u5ba4\u7684\u516c\u5bd3 4799 AED - 8784026",
+            "matchLevel": "none",
+            "matchedWords": []
+        },
+        "title_l3": {
+            "value": "\u041a\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0432 \u0414\u0436\u0443\u043c\u0435\u0439\u0440\u0430 \u0412\u0438\u043b\u043b\u0430\u0434\u0436 \u0421\u0435\u0440\u043a\u043b (\u0414\u0416\u0412\u0421)\uff0c\u0414\u0436\u0435\u0439\u0412\u0438\u0421\u0438 \u0414\u0438\u0441\u0442\u0440\u0438\u043a\u0442 10\uff0c\u041f\u043b\u0430\u0437\u0437\u043e \u0425\u0430\u0439\u0442\u0441, 1 \u0441\u043f\u0430\u043b\u044c\u043d\u044f, 4799 AED - 8784026",
+            "matchLevel": "none",
+            "matchedWords": []
+        },
+        "externalID": {
+            "value": "8784026",
+            "matchLevel": "none",
+            "matchedWords": []
+        },
+        "agency": {
+            "name": {
+                "value": "Luxe Signature Holiday Homes",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "name_l1": {
+                "value": "\u0644\u0648\u0643\u0633 \u0633\u064a\u062c\u0646\u064a\u062a\u0634\u0631 \u0644\u0628\u064a\u0648\u062a \u0627\u0644\u0639\u0637\u0644\u062a",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "name_l2": {
+                "value": "Luxe Signature Holiday Homes",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            "name_l3": {
+                "value": "Luxe Signature Holiday Homes",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        },
+        "keywords": [
+            {
+                "value": "parking",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0645\u0648\u0642\u0641 \u0633\u064a\u0627\u0631\u0629",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "new",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "furnished",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u062c\u062f\u064a\u062f\u0629",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0645\u0624\u062b\u062b\u0629",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0645\u0637\u0628\u062e",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0645\u0641\u0631\u0648\u0634",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "kitchen",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0645\u0641\u0631\u0648\u0634\u0629",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "elevator",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0645\u0637\u0627\u0631",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "luxury",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "airport",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0627\u064a\u062c\u0627\u0631 \u062c\u062f\u064a\u062f",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0641\u0627\u062e\u0631\u0629",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u062c\u062f\u064a\u062f\u0629 \u0627\u0648\u0644 \u0633\u0627\u0643\u0646",
+                "matchLevel": "none",
+                "matchedWords": []
+            },
+            {
+                "value": "\u0645\u0635\u0639\u062f",
+                "matchLevel": "none",
+                "matchedWords": []
+            }
+        ]
+    }
+}
