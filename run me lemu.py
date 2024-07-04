@@ -1,6 +1,5 @@
 import requests
 import json
-import csv
 
 url = "https://bayut.p.rapidapi.com/properties/list"
 querystring = {
@@ -28,8 +27,8 @@ def get_location_details(location_array):
     location2 = next((loc['name'] for loc in location_array if loc['level'] == 3), None)
     return city, location1, location2
 
-# Prepare data for CSV
-csv_data = []
+# Prepare data for JSON
+json_data = []
 for hit in json_response['hits']:
     city, location1, location2 = get_location_details(hit.get('location', []))
     full_address = ', '.join(filter(None, [loc.get('name') for loc in reversed(hit.get('location', []))]))
@@ -45,16 +44,14 @@ for hit in json_response['hits']:
         'Location 1': location1,
         'Location 2': location2,
         'Unit': hit.get('category', [{}])[0].get('nameSingular', None),
-        'Type': hit.get('purpose', '').split('-')[0] if hit.get('purpose') else None,
+        'Type': hit.get('category', [{}])[0].get('name', None),
         'Rent_sale': 'Rent' if hit.get('purpose') == 'for-rent' else 'Sale'
     }
-    csv_data.append(row)
+    json_data.append(row)
 
-# Save to CSV
-csv_filename = "property_data.csv"
-with open(csv_filename, mode='w', newline='', encoding='utf-8') as file:
-    writer = csv.DictWriter(file, fieldnames=csv_data[0].keys())
-    writer.writeheader()
-    writer.writerows(csv_data)
+# Save to JSON
+json_filename = "property_data.json"
+with open(json_filename, 'w', encoding='utf-8') as file:
+    json.dump(json_data, file, ensure_ascii=False, indent=4)
 
-print(f"Data saved to {csv_filename}")
+print(f"Data saved to {json_filename}")
